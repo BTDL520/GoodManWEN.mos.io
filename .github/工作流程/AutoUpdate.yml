@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          存储库： goodmanwen.mos.io
+          存储库：BTDL520/GoodManWEN.mos.io
       -名称：设置节点
         uses: actions/setup-node@v2
         with:
