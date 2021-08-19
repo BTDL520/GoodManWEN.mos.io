@@ -15,8 +15,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          repository: BTDL520.GoodManWEN.mos.io
-      - name: Set up Node
+          存储库： goodmanwen.mos.io
+      -名称：设置节点
         uses: actions/setup-node@v2
         with:
           node-version: 12
